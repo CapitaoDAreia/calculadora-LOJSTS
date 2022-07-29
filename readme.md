@@ -1,4 +1,5 @@
 # Calculadora
+## Curso de JS do professor Luiz Otávio Miranda
 
 Utilizei a função eval para realizar os cálculos, não possui regex para filtrar as entradas.
 
